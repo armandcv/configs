@@ -24,36 +24,36 @@
     },
     {
       "type": "os",
-      "key": "│ OS          ",
+      "key": "│ OS          ",
       "format": "{3} ({10})"
     },
     {
       "type": "host",
-      "key": "│ Host        "
+      "key": "│ Host        "
     },
     {
       "type": "kernel",
-      "key": "│ Kernel      "
+      "key": "│ Kernel  󰒋    "
     },
     {
       "type": "packages",
-      "key": "│ Packages    "
+      "key": "│ Packages    "
     },
     {
       "type": "shell",
-      "key": "│ Shell       "
+      "key": "│ Shell       "
     },
     {
       "type": "terminal",
-      "key": "│ Terminal  󰀻  "
+      "key": "│ Terminal    "
     },
     {
       "type": "wm",
-      "key": "│ WM          "
+      "key": "│ WM          "
     },
     {
       "type": "font",
-      "key": "│ Font        "
+      "key": "│ Font        "
     },
     {
       "type": "separator",
@@ -66,19 +66,19 @@
     },
     {
       "type": "cpu",
-      "key": "│ CPU         "
+      "key": "│ CPU  󰻠       "
     },
     {
       "type": "gpu",
-      "key": "│ GPU         "
+      "key": "│ GPU         "
     },
     {
       "type": "memory",
-      "key": "│ Memory      "
+      "key": "│ Memory      "
     },
     {
       "type": "battery",
-      "key": "│ Battery     "
+      "key": "│ Battery 󰄌    "
     },
     {
       "type": "separator",
